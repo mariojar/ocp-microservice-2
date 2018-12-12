@@ -1,0 +1,12 @@
+target/
+id_rsa_poc_ocp
+
+id_rsa_poc_ocp\.pub
+
+\.classpath
+
+\.metadata/
+
+\.project
+
+\.settings/
